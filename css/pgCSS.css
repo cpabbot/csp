@@ -1,0 +1,153 @@
+hr {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+    /* This background is dark, so we set text to white. Use 87% black instead if your background is light. */
+    color: white;
+}
+
+.mdl-layout-title {
+    color: white;
+}
+
+header {
+    background: #009688;
+
+}
+body {
+    background-color: #E0F2F1;
+}
+#sidenav_title {
+    background-color: #00695C;
+}
+.mdl-card {
+    width: 800px;
+    margin: auto;
+}
+
+/*
+#test {
+    margin-left: 20px;
+}
+
+#bpod_card {
+    /*left: 20px;
+    top: 20px;
+    /*float: right;*
+    margin: auto;
+}
+.right {
+    float: right;
+    /*border: solid;*
+    width: 50%;
+    margin: 0;
+    padding: 10px;
+}
+#best_puns {
+    /*border: solid;*
+    margin: 0;
+}
+.bestPuns_Mobile {
+    width: 100%;
+}
+.bestPuns_Desktop {
+    width: 50%;
+}
+main {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+*/
+
+.cardLink {
+    text-decoration: none;
+    color: white;/*#004D40;*/
+}
+a:hover.cardLink {
+    text-decoration: underline;
+}
+#home-image {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    max-width: 300px;
+}
+main {
+    font-family: roboto;
+}
+.mdl-card__title.home {
+    background: url('../img/card-background-home.jpg') center / cover;
+}
+
+#above-header img {
+    display: block;
+    margin: auto;
+}
+
+#above-header {
+    background-color: #00BFA5;
+    padding: 10px;
+}
+
+.mdl-card__title {
+    color: white;
+    background-color: #00695C;
+    height: 120px;
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
+
+.card-title-right {
+    padding-left: 340px;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+
+
+.mdl-card__supporting-text.assignment-card {
+    height: 400px;
+}
+
+
+
+.upper-left {
+    position: absolute;
+}
+
+footer {
+    background-color: white;
+    height: 110px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    z-index: 9000;
+}
+
+p {
+    margin-left: 10px;
+    font-family: Roboto;
+}
+
+
+
+.search-hw {
+    position: fixed;
+    right: 60px;
+    top: 70px;
+    width: 200px;
+}
+
+.search-hw-button {
+    position: relative;
+    left: 170px;
+}
+
+
